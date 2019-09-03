@@ -87,18 +87,18 @@ Tagasisidet saab otse *pull request*'i millele ootan Sinupoolseid kommentaare/m�
 
 
 ### Teemad
-T 10.09.2019	16:15 - 17:45 – Angular https://angular.io - Egert Klaamas, Egert Piksar, Kevin Kodasmaa
-T 17.09.2019	16:15 - 17:45 – Ember https://emberjs.com - Riho Noormets, Petrik Sarri
-T 24.09.2019	16:15 - 17:45 – Ruby on Rails https://rubyonrails.org - Stivo Sirel, Mattias Blehner, Kristjan Veensalu
-T 01.10.2019	16:15 - 17:45 – Django https://www.djangoproject.com - Mihkel Haava, Taavi Meinberg, Simon Berner
-T 08.10.2019	16:15 - 17:45 – Yii https://www.yiiframework.com/ - eet Triisa, Martin Kasak
-T 15.10.2019	16:15 - 17:45 – Laravel https://laravel.com - Henrik Einsar, Simone Niinemägi, Sten Markus Laht
-T 29.10.2019	16:15 - 17:45 – Spring https://spring.io - Tauri Taevik, Kert Tamm
-T 05.11.2019	16:15 - 17:45 – Meteor https://www.meteor.com - Grete Ojavere, Julika Maiste
-T 12.11.2019	16:15 - 17:45 – ASP.NET https://dotnet.microsoft.com/apps/aspnet - Silver Kaugemaa, Katri Palo
-T 19.11.2019	16:15 - 17:45 – ReactJS https://reactjs.org - Rasmus Kello, Tim Jaanson, Jaroslava Koger
-T 26.11.2019	16:15 - 17:45 – Flask https://palletsprojects.com/p/flask/ - Norman Salong, Kryslin Luks
-T 03.12.2019	16:15 - 17:45 – Vue.js https://vuejs.org - 
+* T 10.09.2019	16:15 - 17:45 – Angular https://angular.io - Egert Klaamas, Egert Piksar, Kevin Kodasmaa
+* T 17.09.2019	16:15 - 17:45 – Ember https://emberjs.com - Riho Noormets, Petrik Sarri
+* T 24.09.2019	16:15 - 17:45 – Ruby on Rails https://rubyonrails.org - Stivo Sirel, Mattias Blehner, Kristjan Veensalu
+* T 01.10.2019	16:15 - 17:45 – Django https://www.djangoproject.com - Mihkel Haava, Taavi Meinberg, Simon Berner
+* T 08.10.2019	16:15 - 17:45 – Yii https://www.yiiframework.com/ - eet Triisa, Martin Kasak
+* T 15.10.2019	16:15 - 17:45 – Laravel https://laravel.com - Henrik Einsar, Simone Niinemägi, Sten Markus Laht
+* T 29.10.2019	16:15 - 17:45 – Spring https://spring.io - Tauri Taevik, Kert Tamm
+* T 05.11.2019	16:15 - 17:45 – Meteor https://www.meteor.com - Grete Ojavere, Julika Maiste
+* T 12.11.2019	16:15 - 17:45 – ASP.NET https://dotnet.microsoft.com/apps/aspnet - Silver Kaugemaa, Katri Palo* 
+* T 19.11.2019	16:15 - 17:45 – ReactJS https://reactjs.org - Rasmus Kello, Tim Jaanson, Jaroslava Koger
+* T 26.11.2019	16:15 - 17:45 – Flask https://palletsprojects.com/p/flask/ - Norman Salong, Kryslin Luks
+* T 03.12.2019	16:15 - 17:45 – Vue.js https://vuejs.org - 
 
 
 
